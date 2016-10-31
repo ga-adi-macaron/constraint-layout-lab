@@ -29,3 +29,9 @@ It's time to test your skills with constraint layouts. You will choose screensho
 #### Deliverable
 
 An app with at least three activities containing three constraint layouts. Include the three screenshots you chose somewhere in the repo for comparison to your final product.
+
+---
+
+## Licensing
+1. All content is licensed under a CC­BY­NC­SA 4.0 license.
+2. All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact [legal@ga.co](mailto:legal@ga.co).
